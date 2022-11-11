@@ -1,0 +1,79 @@
+{
+  "uid" : "85c41fac30f2d058",
+  "name" : "test_can_upload_file_with_correct_dimension_and_size",
+  "fullName" : "test_event_creation#test_can_upload_file_with_correct_dimension_and_size",
+  "historyId" : "dacb5b44d8fc21cace099778d799afbe",
+  "time" : {
+    "start" : 1668085077793,
+    "stop" : 1668085087116,
+    "duration" : 9323
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1668085051113,
+      "stop" : 1668085068676,
+      "duration" : 17563
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1668085092515,
+      "stop" : 1668085095334,
+      "duration" : 2819
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_event_creation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-P4QS5NT"
+  }, {
+    "name" : "thread",
+    "value" : "2684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_event_creation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85c41fac30f2d058.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e99479bd1fe9f",
+  "name" : "test_cannot_upload_file_with_bigger_size",
+  "time" : {
+    "start" : 1668085087128,
+    "stop" : 1668085090028,
+    "duration" : 2900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85c41fac30f2d058",
+  "name" : "test_can_upload_file_with_correct_dimension_and_size",
+  "time" : {
+    "start" : 1668085077793,
+    "stop" : 1668085087116,
+    "duration" : 9323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68a5e60c8b29a37d",
+  "name" : "test_event_can_be_deleted",
+  "time" : {
+    "start" : 1668085068682,
+    "stop" : 1668085077771,
+    "duration" : 9089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee198924261d8092",
+  "name" : "test_user_is_requested_to_fill_required_field",
+  "time" : {
+    "start" : 1668085090034,
+    "stop" : 1668085092513,
+    "duration" : 2479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

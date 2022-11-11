@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 10 15:58:10 MSK 2022","Thu Nov 10 15:58:12 MSK 2022","2479","","test_event_creation","","","","test_user_is_requested_to_fill_required_field",""
+"passed","Thu Nov 10 15:58:07 MSK 2022","Thu Nov 10 15:58:10 MSK 2022","2900","","test_event_creation","","","","test_cannot_upload_file_with_bigger_size",""
+"passed","Thu Nov 10 15:57:48 MSK 2022","Thu Nov 10 15:57:57 MSK 2022","9089","","test_event_creation","","","","test_event_can_be_deleted",""
+"passed","Thu Nov 10 15:57:57 MSK 2022","Thu Nov 10 15:58:07 MSK 2022","9323","","test_event_creation","","","","test_can_upload_file_with_correct_dimension_and_size",""
